@@ -21,8 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudsalim23&" alt="mahmoudsalim23" /></p>
 
 ###
-<img src="https://camo.githubusercontent.com/1630ceb4ec054022862f08bb2a0f9adacdcdce643600b0d3fb3b1090769f6c57/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d612d68656d656461267468656d653d68696768636f6e7472617374" />
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
