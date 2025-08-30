@@ -35,7 +35,7 @@
 </div>
 
 ###
-
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudsalim23&theme=highcontrast" alt="GitHub Streak" /></a>
 
 ###
