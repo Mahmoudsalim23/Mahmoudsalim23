@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudsalim23&theme=highcontrast" alt="GitHub Streak" /></a>"
+  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mahmoudsalim23&theme=highcontrast" alt="GitHub Streak"
   <img src="https://github-profile-trophy.vercel.app?username=mahmoudsalim23&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
