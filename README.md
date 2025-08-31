@@ -22,7 +22,7 @@
 
 ###
   <div align="left">
-📄 [Check My CV](https://drive.google.com/drive/u/2/my-drive)
+[📄 Check My CV](https://drive.google.com/drive/u/2/my-drive)
 
 ###
 
@@ -66,6 +66,6 @@
 
 ###
 
-📫 Reach me on [LinkedIn](https://linkedin.com/in/username) | [Email](mailto:youremail@gmail.com)
+📫 Reach me on [📄 Check My CV]([https://linkedin.com/in/username](https://drive.google.com/drive/u/2/my-drive)) | [Email](mailto:youremail@gmail.com)
 
 ###
