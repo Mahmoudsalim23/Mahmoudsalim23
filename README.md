@@ -21,10 +21,8 @@
 
 ###
 
-  <div align="left">
-<a href="https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing" target="_blank">
-  <span style="font-size:20px; font-weight:bold; text-decoration:none;">📄 Check My CV</span>
-</a>
+- 🌐 [My Portfolio](https://your-portfolio-link.com)  
+- 📄 [Check My CV](https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing)
 
 ###
 
