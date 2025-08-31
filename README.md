@@ -22,7 +22,7 @@
 
 ###
   <div align="left">
-📄 [Check My CV](file:///C:/Users/MO/Downloads/Mahmoud_Salim_Telecommunications%20Engineering%20Student%20_%20Data%20Analyst_resume%20(5).pdf)
+📄 [Check My CV](https://drive.google.com/drive/u/2/my-drive)
 
 ###
 
