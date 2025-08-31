@@ -22,7 +22,7 @@
 
 ###
   <div align="left">
-[📄 Check My CV](https://drive.google.com/drive/u/2/my-drive)
+[📄Check My CV](https://drive.google.com/drive/u/2/my-drive)
 
 ###
 
