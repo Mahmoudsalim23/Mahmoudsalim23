@@ -66,7 +66,9 @@
 
 ###
 
-[📄Check My CV]([https://github.com/YourUsername](https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing))
+[📄Check My CV][https://github.com/YourUsername](https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing)
 - [💼 LinkedIn](https://linkedin.com/in/YourUsername)
 - [📧 Email](mailto:YourEmail@gmail.com)
+- [📄 Check My CV](https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing)
+
 ###
