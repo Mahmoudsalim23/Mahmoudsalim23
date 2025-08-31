@@ -70,5 +70,9 @@
 - [💼 LinkedIn](https://linkedin.com/in/YourUsername)
 - [📧 Email](mailto:YourEmail@gmail.com)
 - [📄 Check My CV](https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing)
+- <a href="https://drive.google.com/file/d/1n5X3nK8uOc8Ki0uV1nAuRT0uYACX-gNX/view?usp=sharing" target="_blank">
+  <span style="font-size:20px; font-weight:bold; text-decoration:none;">📄 Check My CV</span>
+</a>
+
 
 ###
